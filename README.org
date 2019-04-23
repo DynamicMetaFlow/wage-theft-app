@@ -1,5 +1,7 @@
+#+OPTIONS:    H:3 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
 #+TITLE: Wage Theft Application
 #+AUTHOR: Alexander Soto
+
 
 
 * Problem Statement:
