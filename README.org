@@ -4,42 +4,31 @@
 
 * Problem Statement:
 
-How might we use technology as a tool to increase the capacity of
-community based organizations to address low-wage worker's issues
-surrounding wage theft, health/safety and workplace violations?
+  How might we use technology as a tool to increase the capacity of
+  community based organizations to address low-wage worker's issues
+  surrounding wage theft, health/safety and workplace violations?
 
 * What is wage theft?
 
-Wage theft is the failure to pay workers the full wages to which they
-are legally entitled. Examples include:
+  Wage theft is the failure to pay workers the full wages to which they
+  are legally entitled. Examples include:
 
-- Minimum wage violations: Paying workers less than the legal minimum wage.
-- Overtime violations: Failing to pay nonexempt employees time and a half for hours worked in excess of 40 hours per week.
-- Off-the-clock violations: Asking employees to work off the clock before or after their shifts
-- Meal break violations: Denying workers their legal meal breaks
-- Illegal deductions: Taking illegal deductions from wages.
-- Tipped minimum wage violations: Confiscating tips from workers, or failing to pay tipped workers the difference between their tips and the legal minimum wage.
-- Employee mis-classification violations: Misclassifying employees as independent contractors to pay a wage lower than the legal minimum or avoid paying overtime.
+  - *Minimum wage violations:* Paying workers less than the legal minimum wage.
+  - *Overtime violations:* Failing to pay nonexempt employees time and a half for hours worked in excess of 40 hours per week.
+  - *Off-the-clock violations:* Asking employees to work off the clock before or after their shifts
+  - *Meal break violations:* Denying workers their legal meal breaks
+  - *Illegal deductions:* Taking illegal deductions from wages.
+  - *Tipped minimum wage violations:* Confiscating tips from workers, or failing to pay tipped workers the difference between their tips and the legal minimum wage.
+  - *Employee mis-classification violations:* Misclassifying employees as independent contractors to pay a wage lower than the legal minimum or avoid paying overtime.
 
 * Consequences of wage theft
 
-According to a report from the Economic Policy Institute, it's
-estimated that low-wage workers in the U.S lost more than $50 billion
-to all forms of wage theft in 2016. The disproportionate share of wage
-theft victims are people of color, women, immigrants, young-people,
-workers from modest-income households non-unionized workers, and workers who do not have a bachelor's degree.
+  According to a report from the Economic Policy Institute, *it's estimated that low-wage workers in the U.S lost more
+  than $50 billion to all forms of wage theft in 2016.* The disproportionate share of wage theft victims are people of
+  color, women, immigrants, young-people, workers from modest-income households non-unionized workers, and workers who do not have a bachelor's degree.
+
+  *One of the major sources of problem is: lack of information.* If workers do not not know how many hours they worked in a given week,
+  the worker cannot figure out whether they are being paid properly. If a worker cannot testify in court to approximate hours in a given week,
+  they cannot prove liability or damages. A worker's schedule can vary and contributes to lack of information to hours worked.
 
 
-One of the major sources of problem is: lack of information. If workers do not not know how many hours they worked in a given week,
-the worker cannot figure out whether they are being paid properly. If a worker cannot testify in court to approximate hours in a given week,
-they cannot prove liability or damages. A worker's schedule can vary and contributes to lack of information to hours worked.
-
-
-
----
-*Related:*
-
-
-
----
-*References:*
