@@ -34,5 +34,5 @@
 
 
 * Topics to include
-** TODO What are worker centers?
-** TODO User Story: Worker
+- TODO What are worker centers?
+- TODO User Story: Worker
