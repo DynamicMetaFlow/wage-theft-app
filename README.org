@@ -1,3 +1,4 @@
+#+TOC: h:2
 #+SEQ_TODO:   TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
 #+TAGS:       Write(w) Update(u) Fix(f) Check(c)
 #+TITLE: Wage Theft Application
