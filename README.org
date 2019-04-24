@@ -1,8 +1,7 @@
-#+OPTIONS:    H:3 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
+#+SEQ_TODO:   TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
+#+TAGS:       Write(w) Update(u) Fix(f) Check(c)
 #+TITLE: Wage Theft Application
 #+AUTHOR: Alexander Soto
-
-
 
 * Problem Statement:
 
@@ -34,3 +33,6 @@
   they cannot prove liability or damages. A worker's schedule can vary and contributes to lack of information to hours worked.
 
 
+* Topics to include
+** TODO What are worker centers?
+** TODO User Story: Worker
