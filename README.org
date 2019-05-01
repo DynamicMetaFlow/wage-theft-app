@@ -1,7 +1,6 @@
 #+TITLE: Wage Theft Application
 #+AUTHOR: Alexander Soto
 #+CATEGORY: wagetheft
-#+SEQ_TODO:   TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
 #+TAGS:       Write(w) Update(u) Fix(f) Check(c)
 
 * Problem Statement:
@@ -31,9 +30,49 @@
 
   *One of the major sources of problem is: lack of information.* If workers do not not know how many hours they worked in a given week,
   the worker cannot figure out whether they are being paid properly. If a worker cannot testify in court to approximate hours in a given week,
-  they cannot prove liability or damages. A worker's schedule can vary and contributes to lack of information to hours worked.
+  they cannot prove liability or damages. A worker's schedule can vary and
+  contributes to lack of information to hours worked.
+
+* What are worker centers?
+
+Worker  centers are community-based mediating institutions that provide support
+to and organize among communities of low-wage workers. Most centers focus their 
+work geographically, operating in a particular city or neighborhood.
+
+Worker centers in general have emerged in response to the decline of
+institutions that historically povided workers with a vehcicle for collective
+action. Immigrant worker centers have emerged as a consequence of the explosive
+growth of immigrant communities and the absence of infrastucture to support
+their needs.
 
 
-* Topics to include
-** TODO What are worker centers?
-** TODO User Story: Worker
+The type of activities that worker centers engage in are: helping workers to claim unpaid wages,
+working with government agencies to improve enforcement, mounting direct action
+organizing campaigns against specific employers and engaging in leadership
+development and popular education activities.
+
+
+
+** List of Worker centers
+
+ List of Workercenters in Massachusetts
+
+ Worker Centers
+
+ Brazilian Women’s Group
+ Brazilian Worker Center
+ Brockton Workers’ Alliance
+ Centro Comunitario de Trabajadores
+ Chelsea Collaborative
+ Chinese Progressive Association
+ Fuerza Laboral
+ MassCOSH Immigrant Worker Center
+ Matahari Women’s Worker Center
+ Pioneer Valley Workers’ Center
+ Restaurant Opportunities Center (ROC) Boston
+
+
+
+ References:
+ [[https://jatwork.org/resources/resources-for-workers/][Resources for Workers – Justice at Work]]
+
