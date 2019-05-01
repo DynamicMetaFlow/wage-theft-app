@@ -55,7 +55,7 @@ development and popular education activities.
  [[https://www.epi.org/publication/books_worker_centers/][Worker Centers: Organizing Communities at the Edge of the Dream]]
 
 
-** List of Worker centers in Massachusetts
+* List of Worker centers in Massachusetts
 
 - Brazilian Women’s Group
 - Brazilian Worker Center
