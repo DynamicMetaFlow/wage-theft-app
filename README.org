@@ -9,6 +9,13 @@
   community based organizations to address low-wage worker's issues
   surrounding wage theft, health/safety and workplace violations?
 
+* Partner Organization
+[[https://jatwork.org/][Justice at Work]]
+
+#+BEGIN_QUOTE
+Justice at Work’s mission is to provide strategic legal support for low-wage worker organizations and their members to strengthen organizing. Our staff provide our worker center partners and the people they serve with legal services, training, and legal counsel for collective action.
+#+END_QUOTE
+
 * What is wage theft?
 
   Wage theft is the failure to pay workers the full wages to which they
@@ -53,7 +60,6 @@ development and popular education activities.
 
  References:
  [[https://www.epi.org/publication/books_worker_centers/][Worker Centers: Organizing Communities at the Edge of the Dream]]
-
 
 * List of Worker centers in Massachusetts
 
