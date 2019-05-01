@@ -1,7 +1,7 @@
 #+TITLE: Wage Theft Application
 #+AUTHOR: Alexander Soto
 #+CATEGORY: wagetheft
-#+TAGS:       Write(w) Update(u) Fix(f) Check(c)
+#+TAGS: Write(w) Update(u) Fix(f) Check(c)
 
 * Problem Statement:
 
@@ -45,31 +45,29 @@ action. Immigrant worker centers have emerged as a consequence of the explosive
 growth of immigrant communities and the absence of infrastucture to support
 their needs.
 
-
 The type of activities that worker centers engage in are: helping workers to claim unpaid wages,
 working with government agencies to improve enforcement, mounting direct action
 organizing campaigns against specific employers and engaging in leadership
 development and popular education activities.
 
 
+ References:
+ [[https://www.epi.org/publication/books_worker_centers/][Worker Centers: Organizing Communities at the Edge of the Dream]]
 
-** List of Worker centers
 
- List of Workercenters in Massachusetts
+** List of Worker centers in Massachusetts
 
- Worker Centers
-
- Brazilian Women’s Group
- Brazilian Worker Center
- Brockton Workers’ Alliance
- Centro Comunitario de Trabajadores
- Chelsea Collaborative
- Chinese Progressive Association
- Fuerza Laboral
- MassCOSH Immigrant Worker Center
- Matahari Women’s Worker Center
- Pioneer Valley Workers’ Center
- Restaurant Opportunities Center (ROC) Boston
+- Brazilian Women’s Group
+- Brazilian Worker Center
+- Brockton Workers’ Alliance
+- Centro Comunitario de Trabajadores
+- Chelsea Collaborative
+- Chinese Progressive Association
+- Fuerza Laboral
+- MassCOSH Immigrant Worker Center
+- Matahari Women’s Worker Center
+- Pioneer Valley Workers’ Center
+- Restaurant Opportunities Center (ROC) Boston
 
 
 
