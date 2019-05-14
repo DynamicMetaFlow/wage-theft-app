@@ -22,10 +22,55 @@ development and popular education activities.
 
 
  References:
- [[https://www.epi.org/publication/books_worker_centers/][Worker Centers: Organizing Communities at the Edge of the Dream]]
++ [[https://www.epi.org/publication/books_worker_centers/][Worker Centers: Organizing Communities at the Edge of the Dream]]
 
 * What's the process of how a worker center help workers claim unpaid wages?
+Each worker center has different strategies and approaches of how to assist a worker. In addition each case is different due to the workers, employer, commmunity organizer, workercenter and context.
 
+Below is an example of one process.
+
+* Example of process
+*Initial screen questions:*
+Gathering information about worker and employer
++ What is the problem you are experiencing?
++ How much do your earn an hour?
++ How many hours do you work?
++ What was the name of company? Do you have the companies address, license plate, the employer's home address, office telephone numbers or cell phone numbers?
++ Are you unionized or not
++ Do you still work there?
+
+*1. Analyzing the case:*
+What type of case is this?
++ Wage and hour case
++ Problem with a union
++ unjustly fired
++ general abuse
+
+*2. Analyze hours:*
+Generate a timesheet from information provided by worker
++ What are the dates where the worker was not paid?
++ What were the workers' hours during these dates?
++ Did the worker work overtime?
+
+3. *Worker participates in first phone call with employer.*
+
+4. *Research*
+Researching on the internet for information about the employer and company.
++ Google
++ Radaris, Intelus, People Search etc
++ Workman's ComDatabase at Division of Industrial Accidents
++ Facebook
+
+5. *Letter to employer*
++ Letter is sent by certified mail
++ Using template of organiation
++ Waiting for employer to respond.
+
+6. *Refer case to Attorney Genera's Office*
++ If the employer does not respond to letter
++ If there is no communication between the employer and workercenter
++ Complete form to send case to attorney general's office
++ follow up with attorney genera's office and worker
 
 
 
@@ -46,4 +91,4 @@ development and popular education activities.
 
 
  References:
- [[https://jatwork.org/resources/resources-for-workers/][Resources for Workers – Justice at Work]]
++ [[https://jatwork.org/resources/resources-for-workers/][Resources for Workers – Justice at Work]]
