@@ -30,7 +30,7 @@ Each worker center has different strategies and approaches of how to assist a wo
 Below is an example of one process.
 
 * Example of process
-*Initial screen questions:*
+*0. Initial screen questions:*
 Gathering information about worker and employer
 + What is the problem you are experiencing?
 + How much do your earn an hour?
