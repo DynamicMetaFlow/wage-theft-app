@@ -54,7 +54,7 @@ References:
 + [[https://www.muckrock.com/news/archives/2016/may/23/boston-wage-theft-data/][The human cost of wage theft in Massachusetts]]
 
 * Additional Information:
-** [[file:workercenters.org][What are worker centers?]]
-** [[file:worker.org][Who are the workers?]]
++ [[file:workercenters.org][What are worker centers?]]
++ [[file:worker.org][Who are the workers?]]
 
 * [[file:brainstorming.org][Brainstorming]]
