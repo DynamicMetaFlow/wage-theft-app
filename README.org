@@ -41,7 +41,7 @@ In terms of daily averages, employers steal nearly $2 million of labor each day,
 #+END_QUOTE
 
 
-[[file:../../org/notes/data/ca/202347-8f7b-4251-8df0-2edba10a3a95/Wage2_2019-05-14_10-43-58.jpg]]
+[[file:media/Wage2_2019-05-14_10-43-58.jpg][Wages in MA]]
 
 #+BEGIN_QUOTE
 Cooper and Kroeger (2017) find that workers suffering minimum wage violations are cheated out of $64 a week—$3,300 annually for year-round workers. These workers lose almost one-quarter of their earnings, receiving on average only $10,500 in annual wages instead of the $13,800 they should have received.
