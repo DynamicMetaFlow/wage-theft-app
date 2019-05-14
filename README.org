@@ -54,6 +54,7 @@ References:
 + [[https://www.epi.org/publication/two-billion-dollars-in-stolen-wages-were-recovered-for-workers-in-2015-and-2016-and-thats-just-a-drop-in-the-bucket/][Two billion dollars in stolen wages were recovered...]]
 + [[https://www.muckrock.com/news/archives/2016/may/23/boston-wage-theft-data/][The human cost of wage theft in Massachusetts]]
 
-* [[file:workercenters.org][Worker centers]]
-* [[file:worker.org][Workers]]
+* Perspectives
+** [[file:workercenters.org][Worker centers]]
+** [[file:worker.org][Workers]]
 * [[file:brainstorming.org][Brainstorming]]
