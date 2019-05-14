@@ -5,12 +5,19 @@
 
 * Barriers
 ** Lack of information
-+ If workers do not not know how many hours they worked in a given week, the worker cannot figure out whether they are being paid properly. If a worker cannot testify in court to approximate hours in a given week,they cannot prove liability or damages. A worker's schedule can vary and contributes to lack of information to hours worked.
-
++ If workers don't know how many hours they worked in a given week, the worker cannot figure out whether they are being paid properly.
++ If a worker cannot testify in court to approximate hours in a given week,they cannot prove liability or damages.
 + Inconsistent or incomplete information about the employer or company plays a large role of whether or not a workers' wages can be recuperated.
++ A worker's schedule can vary and contributes to lack of information to hours worked.
 * Ideas
 ** Location History
 Create a web based tool that worker centers can use to turn cell phone location history into court admissible evidence that summarizes a person's time on the job.
+
+ The location history application can be used in the initial intake process of when a worker visits a worker center.The community organizer at the worker center would ask the initial questions about hours worked, employer information etc.
+
+In the "research" phase, the organizer asks the worker permission to load their location data to a website that will then compute the days and times a worker was at a specific given area. This information will then be exported as a spreadsheet that can then later be used by the worker center, lawyer and attorney generals office, or department of labor to be admissible in court
+
+ In addition to location history aggregating text messages, phone logs, or pictures (EXIF data) can be useful for workers who are not in specific area i.e construction workers and to further stregthen and solidify workers' cases.
 
 *Process*
 1. Downloads location data from Google.
@@ -23,11 +30,9 @@ Create a web based tool that worker centers can use to turn cell phone location 
 + Reasonably accurate
 + The tool can be used to corroborate a worker's story
 
-** Worker center application
+** Worker Center Application
 
 Create an application to increase the capacity of community based organizations to address workers' issues.
-
-Application is modeled after a "worker center code" model, that allows worker centers who wish to participate in the network to register and are then given a unique code where workers can elect to work with that specific worker center.
 
 *Features:*
 + Tracks worker hours
@@ -39,11 +44,4 @@ Application is modeled after a "worker center code" model, that allows worker ce
 + Generate reports and job logs used for the Department of Labor and Attorney General's Office
 + Share information with other workers and worker centers about non-paying jobs or employers who don't pay their workers.
 
-** Thoughts
-*** Location History
- The location history application can be used in the initial intake process of when a worker visits a worker center.
- The community organizer at the worker center would ask the initial questions about hours worked, employer information etc. In the "research" phase, the organizer asks the worker permission to load their location data to a website that will then compute the days and times a worker was at a specific given area. This information will then be exported as a spreadsheet that can then later be used by the worker center, lawyer and attorney generals office, or department of labor to be admissible in court
-
- In addition to location history exploring the gathering text messages, phone logs, or pictures (EXIF data) can be useful for workers who are not in specific area i.e construction workers.
-
-** Worker center application.
+The worker center application is modeled after a "worker center code" model, that allows worker centers to join and register with the network. The worker centers are then given a unique code where workers can elect to work with that specific worker center. Rather than creating an application that displaces worker centers and community organizers, this application would stregthen the relationship between worker and workercenters.
