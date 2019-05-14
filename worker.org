@@ -2,7 +2,14 @@
 #+CATEGORY: wagetheft
 #+TAGS: Write(w) Update(u) Fix(f) Check(c)
 
-* A day in the life of a low-wage worker
+* Worker Testimony
+I'm originally from Honduras and I came to this country to fight and help my family. I worked at a restaurant in Somerville. I worked for 10 months, 6 days a week, from 11am to 11pm, approximately 72 hours a week. I worked as a dishwasher and preparation and they paid me $ 425 a week.
+
+After working at this restaurant for some time, I was left with 4 weeks of work that I wasn't paid. When I asked for the money they owed me, they told me they did not have the money to pay me and for me to wait. They told me that they would have it for me next week and that I would continue working. I kept working but they kept saying the same thing "for next week" every time I asked for my money.
+
+At the end I got tired of working without being paid payment. I had obligations, I had to pay rent, and other family needs. And this is why I decided to leave this restaurant.
+
+I decided to go to a community organization to seek help. I started learning about my rights as a worker. I learned about the minimum wage, I learned that you have to pay me at the designated time time, I learned about overtime. And I realized that what the employer paid me was below the minimum wage of Massachusetts law.
 
 * Timesheet
 | $8.00 per hour      |        |                   |      |            |              |                    |
