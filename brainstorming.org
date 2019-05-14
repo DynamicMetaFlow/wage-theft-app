@@ -19,9 +19,9 @@ Create a web based tool that worker centers can use to turn cell phone location 
 4. Draw box around worksite
 5. Compute
 
-+. Location history is turned on by default and linked to a Google account  rather than a specific phone.
-+. Reasonably accurate
-+. The tool can be used to corroborate a worker's story
++ Location history is turned on by default and linked to a Google account  rather than a specific phone.
++ Reasonably accurate
++ The tool can be used to corroborate a worker's story
 
 ** Worker center application
 
