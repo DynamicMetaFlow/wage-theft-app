@@ -38,6 +38,8 @@ Justice at Work’s mission is to provide strategic legal support for low-wage w
 "The Massachusetts group Community Labor United estimates wage theft costs workers in Massachusetts almost $700 million annually. The Attorney General’s Office, tasked with protecting workers in this state, successfully recovers $5.2 million annually.
 
 In terms of daily averages, employers steal nearly $2 million of labor each day, and the Attorney General wins back just $14,330 in compensation."
+
+Cooper and Kroeger (2017) find that workers suffering minimum wage violations are cheated out of $64 a week—$3,300 annually for year-round workers. These workers lose almost one-quarter of their earnings, receiving on average only $10,500 in annual wages instead of the $13,800 they should have received.
 #+END_QUOTE
 
 
@@ -48,16 +50,11 @@ In terms of daily averages, employers steal nearly $2 million of labor each day,
 
 
 
-
-#+BEGIN_QUOTE
-Cooper and Kroeger (2017) find that workers suffering minimum wage violations are cheated out of $64 a week—$3,300 annually for year-round workers. These workers lose almost one-quarter of their earnings, receiving on average only $10,500 in annual wages instead of the $13,800 they should have received.
-#+END_QUOTE
-
 The disproportionate share of wage theft victims are people of color, women, immigrants, young-people, workers from modest-income households non-unionized workers, and workers who do not have a bachelor's degree.
 
 References:
-[[https://www.epi.org/publication/two-billion-dollars-in-stolen-wages-were-recovered-for-workers-in-2015-and-2016-and-thats-just-a-drop-in-the-bucket/][Two billion dollars in stolen wages were recovered...]]
-[[https://www.muckrock.com/news/archives/2016/may/23/boston-wage-theft-data/][The human cost of wage theft in Massachusetts]]
++ [[https://www.epi.org/publication/two-billion-dollars-in-stolen-wages-were-recovered-for-workers-in-2015-and-2016-and-thats-just-a-drop-in-the-bucket/][Two billion dollars in stolen wages were recovered...]]
++ [[https://www.muckrock.com/news/archives/2016/may/23/boston-wage-theft-data/][The human cost of wage theft in Massachusetts]]
 
 * [[file:workercenters.org][Worker centers]]
 * [[file:worker.org][Workers]]
