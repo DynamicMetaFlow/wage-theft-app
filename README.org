@@ -1,4 +1,3 @@
-#+TITLE: Creating an application to address wage theft
 #+AUTHOR: Alexander Soto
 #+CATEGORY: wagetheft
 #+TAGS: Write(w) Update(u) Fix(f) Check(c)
@@ -53,7 +52,6 @@ The disproportionate share of wage theft victims are people of color, women, imm
 References:
 + [[https://www.epi.org/publication/two-billion-dollars-in-stolen-wages-were-recovered-for-workers-in-2015-and-2016-and-thats-just-a-drop-in-the-bucket/][Two billion dollars in stolen wages were recovered...]]
 + [[https://www.muckrock.com/news/archives/2016/may/23/boston-wage-theft-data/][The human cost of wage theft in Massachusetts]]
-
 
 * [[file:workercenters.org][What are worker centers?]]
 * [[file:worker.org][Who are the workers?]]
