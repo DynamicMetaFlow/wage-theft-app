@@ -4,11 +4,9 @@
 #+TAGS: Write(w) Update(u) Fix(f) Check(c)
 
 * Problem Statement:
-
   How might we use technology as a tool to increase the capacity of
   community based organizations to address low-wage worker's issues
   surrounding wage theft, health/safety and workplace violations?
-
 * Partner Organization: [[https://jatwork.org/][Justice at Work]]
 
 #+BEGIN_QUOTE
@@ -29,53 +27,32 @@ Justice at Work’s mission is to provide strategic legal support for low-wage w
   - *Employee mis-classification violations:* Misclassifying employees as independent contractors to pay a wage lower than the legal minimum or avoid paying overtime.
 
 * Consequences of wage theft
+  :PROPERTIES:
+  :ID:       ca202347-8f7b-4251-8df0-2edba10a3a95
+  :Attachments: Wage2_2019-05-14_10-43-58.jpg
+  :END:
 
-  According to a report from the Economic Policy Institute, *it's estimated that low-wage workers in the U.S lost more
-  than $50 billion to all forms of wage theft in 2016.* The disproportionate share of wage theft victims are people of
-  color, women, immigrants, young-people, workers from modest-income households non-unionized workers, and workers who do not have a bachelor's degree.
+  According to a report from the Economic Policy Institute, *it's estimated that low-wage workers in the U.S lost more than $50 billion to all forms of wage theft in 2016.*
 
-  *One of the major sources of problem is: lack of information.* If workers do not not know how many hours they worked in a given week,
-  the worker cannot figure out whether they are being paid properly. If a worker cannot testify in court to approximate hours in a given week,
-  they cannot prove liability or damages. A worker's schedule can vary and
-  contributes to lack of information to hours worked.
+#+BEGIN_QUOTE
+"The Massachusetts group Community Labor United estimates wage theft costs workers in Massachusetts almost $700 million annually. The Attorney General’s Office, tasked with protecting workers in this state, successfully recovers $5.2 million annually.
 
-* What are worker centers?
-
-Worker  centers are community-based mediating institutions that provide support
-to and organize among communities of low-wage workers. Most centers focus their 
-work geographically, operating in a particular city or neighborhood.
-
-Worker centers in general have emerged in response to the decline of
-institutions that historically povided workers with a vehcicle for collective
-action. Immigrant worker centers have emerged as a consequence of the explosive
-growth of immigrant communities and the absence of infrastucture to support
-their needs.
-
-The type of activities that worker centers engage in are: helping workers to claim unpaid wages,
-working with government agencies to improve enforcement, mounting direct action
-organizing campaigns against specific employers and engaging in leadership
-development and popular education activities.
+In terms of daily averages, employers steal nearly $2 million of labor each day, and the Attorney General wins back just $14,330 in compensation."
+#+END_QUOTE
 
 
- References:
- [[https://www.epi.org/publication/books_worker_centers/][Worker Centers: Organizing Communities at the Edge of the Dream]]
+[[file:../../org/notes/data/ca/202347-8f7b-4251-8df0-2edba10a3a95/Wage2_2019-05-14_10-43-58.jpg]]
 
-* List of Worker centers in Massachusetts
+#+BEGIN_QUOTE
+Cooper and Kroeger (2017) find that workers suffering minimum wage violations are cheated out of $64 a week—$3,300 annually for year-round workers. These workers lose almost one-quarter of their earnings, receiving on average only $10,500 in annual wages instead of the $13,800 they should have received.
+#+END_QUOTE
 
-- Brazilian Women’s Group
-- Brazilian Worker Center
-- Brockton Workers’ Alliance
-- Centro Comunitario de Trabajadores
-- Chelsea Collaborative
-- Chinese Progressive Association
-- Fuerza Laboral
-- MassCOSH Immigrant Worker Center
-- Matahari Women’s Worker Center
-- Pioneer Valley Workers’ Center
-- Restaurant Opportunities Center (ROC) Boston
+The disproportionate share of wage theft victims are people of color, women, immigrants, young-people, workers from modest-income households non-unionized workers, and workers who do not have a bachelor's degree.
 
+References:
+[[https://www.epi.org/publication/two-billion-dollars-in-stolen-wages-were-recovered-for-workers-in-2015-and-2016-and-thats-just-a-drop-in-the-bucket/][Two billion dollars in stolen wages were recovered...]]
+[[https://www.muckrock.com/news/archives/2016/may/23/boston-wage-theft-data/][The human cost of wage theft in Massachusetts]]
 
-
- References:
- [[https://jatwork.org/resources/resources-for-workers/][Resources for Workers – Justice at Work]]
-
+* [[file:workercenters.org][Worker centers]]
+* [[file:worker.org][Workers]]
+* [[file:brainstorming.org][Brainstorming]]

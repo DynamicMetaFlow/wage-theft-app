@@ -1,0 +1,9 @@
+#+TITLE: Brainstorming
+#+AUTHOR: Alexander Soto
+#+CATEGORY: wagetheft
+#+TAGS: Write(w) Update(u) Fix(f) Check(c)
+
+* Barriers
+** Lack of information
+If workers do not not know how many hours they worked in a given week, the worker cannot figure out whether they are being paid properly. If a worker cannot testify in court to approximate hours in a given week,they cannot prove liability or damages. A worker's schedule can vary and contributes to lack of information to hours worked.
+* Addressing barriers

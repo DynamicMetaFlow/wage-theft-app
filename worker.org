@@ -1,0 +1,8 @@
+#+TITLE: Workers
+#+AUTHOR: Alexander Soto
+#+CATEGORY: wagetheft
+#+TAGS: Write(w) Update(u) Fix(f) Check(c)
+
+* A day in the life of a low-wage worker
+
+* Timesheet

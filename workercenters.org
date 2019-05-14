@@ -1,0 +1,49 @@
+#+TITLE: Worker centers
+#+AUTHOR: Alexander Soto
+#+CATEGORY: wagetheft
+#+TAGS: Write(w) Update(u) Fix(f) Check(c)
+
+* What are worker centers?
+
+Worker  centers are community-based mediating institutions that provide support
+to and organize among communities of low-wage workers. Most centers focus their
+work geographically, operating in a particular city or neighborhood.
+
+Worker centers in general have emerged in response to the decline of
+institutions that historically povided workers with a vehcicle for collective
+action. Immigrant worker centers have emerged as a consequence of the explosive
+growth of immigrant communities and the absence of infrastucture to support
+their needs.
+
+The type of activities that worker centers engage in are: helping workers to claim unpaid wages,
+working with government agencies to improve enforcement, mounting direct action
+organizing campaigns against specific employers and engaging in leadership
+development and popular education activities.
+
+
+ References:
+ [[https://www.epi.org/publication/books_worker_centers/][Worker Centers: Organizing Communities at the Edge of the Dream]]
+
+* What's the process of how a worker center help workers claim unpaid wages?
+
+
+
+
+* List of Worker centers in Massachusetts
+
++ [[https://www.facebook.com/BrazilianWomensGroup/][Brazilian Women’s Group]]
++ [[http://www.braziliancenter.org/][Brazilian Worker Center]]
++ [[https://www.facebook.com/Brockton-Workers-Alliance-358983187841888/][Brockton Workers’ Alliance]]
++ [[http://cct-newbedford.org/][Centro Comunitario de Trabajadores]]
++ [[https://www.chelseacollab.org/][Chelsea Collaborative]]
++ [[https://cpaboston.org/][Chinese Progressive Association]]
++ [[https://www.fuerza-laboral.org/][Fuerza Laboral/Power of Workers]]
++ [[http://masscosh.org/what-we-do/initiatives/immigrant-worker-center][MassCOSH Immigrant Worker Center]]
++ [[http://www.mataharijustice.org/][Matahari Women Workers' Center]]
++ [[https://pvworkerscenter.org/][Pioneer Valley Workers' Center]]
++ [[https://rocunited.org/staff-and-locals/boston/][Restaurant Opportunities Center (ROC) Boston]]
+
+
+
+ References:
+ [[https://jatwork.org/resources/resources-for-workers/][Resources for Workers – Justice at Work]]
