@@ -56,3 +56,4 @@ References:
 * [[file:workercenters.org][What are worker centers?]]
 * [[file:worker.org][Who are the workers?]]
 * [[file:brainstorming.org][Brainstorming]]
+* [[file:workshop.org][Wage Theft Workshop]]

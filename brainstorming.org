@@ -17,7 +17,7 @@ Create a web based tool that worker centers can use to turn cell phone location 
 
 In the "research" phase, the organizer asks the worker permission to load their location data to a website that will then compute the days and times a worker was at a specific given area. This information will then be exported as a spreadsheet that can then later be used by the worker center, lawyer and attorney generals office, or department of labor to be admissible in court
 
- In addition to location history aggregating text messages, phone logs, or pictures (EXIF data) can be useful for workers who are not in specific area i.e construction workers and to further stregthen and solidify workers' cases.
+ In addition to location history, it would be beneficial to aggregate text messages, phone logs, or pictures (EXIF data) that can be useful for workers who are not in specific area i.e construction workers and to further stregthen and solidify workers' cases.
 
 *Process*
 1. Downloads location data from Google.
@@ -34,6 +34,9 @@ In the "research" phase, the organizer asks the worker permission to load their 
 
 Create an application to increase the capacity of community based organizations to address workers' issues.
 
+The worker center application is modeled after a "worker center code" model, that allows worker centers to join and register with the network. The worker centers are then given a unique code where workers can elect to work with that specific worker center. Rather than creating an application that displaces worker centers and community organizers, this application would stregthen the relationship between worker and workercenters. Workercenters would be able to receive current information from the workers that are registered with them, identify patterns of abusive employers and better be equipped to manage and follow-up with workers' cases.
+
+
 *Features:*
 + Tracks worker hours
 + Track wages
@@ -43,5 +46,3 @@ Create an application to increase the capacity of community based organizations 
 + Company information
 + Generate reports and job logs used for the Department of Labor and Attorney General's Office
 + Share information with other workers and worker centers about non-paying jobs or employers who don't pay their workers.
-
-The worker center application is modeled after a "worker center code" model, that allows worker centers to join and register with the network. The worker centers are then given a unique code where workers can elect to work with that specific worker center. Rather than creating an application that displaces worker centers and community organizers, this application would stregthen the relationship between worker and workercenters.
