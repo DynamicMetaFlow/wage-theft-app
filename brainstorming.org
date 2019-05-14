@@ -38,3 +38,12 @@ Application is modeled after a "worker center code" model, that allows worker ce
 + Company information
 + Generate reports and job logs used for the Department of Labor and Attorney General's Office
 + Share information with other workers and worker centers about non-paying jobs or employers who don't pay their workers.
+
+** Thoughts
+*** Location History
+ The location history application can be used in the initial intake process of when a worker visits a worker center.
+ The community organizer at the worker center would ask the initial questions about hours worked, employer information etc. In the "research" phase, the organizer asks the worker permission to load their location data to a website that will then compute the days and times a worker was at a specific given area. This information will then be exported as a spreadsheet that can then later be used by the worker center, lawyer and attorney generals office, or department of labor to be admissible in court
+
+ In addition to location history exploring the gathering text messages, phone logs, or pictures (EXIF data) can be useful for workers who are not in specific area i.e construction workers.
+
+** Worker center application.
