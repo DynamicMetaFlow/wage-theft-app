@@ -51,26 +51,25 @@ Generate a timesheet from information provided by worker
 + What are the dates where the worker was not paid?
 + What were the workers' hours during these dates?
 + Did the worker work overtime?
++ Worker participates in first phone call with employer.
 
-3. *Worker participates in first phone call with employer.*
-
-4. *Research*
+*3. Research*
 Researching on the internet for information about the employer and company.
 + Google
 + Radaris, Intelus, People Search etc
 + Workman's ComDatabase at Division of Industrial Accidents
 + Facebook
 
-5. *Letter to employer*
+*4. Letter to employer*
 + Letter is sent by certified mail
 + Using template of organiation
 + Waiting for employer to respond.
 
-6. *Refer case to Attorney Genera's Office*
+*5. Refer case to Attorney Genera's Office*
 + If the employer does not respond to letter
 + If there is no communication between the employer and workercenter
 + Complete form to send case to attorney general's office
-+ follow up with attorney genera's office and worker
++ Follow up with attorney genera's office and worker
 
 
 
