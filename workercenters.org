@@ -24,6 +24,24 @@ development and popular education activities.
  References:
 + [[https://www.epi.org/publication/books_worker_centers/][Worker Centers: Organizing Communities at the Edge of the Dream]]
 
+* List of Worker centers in Massachusetts
+
++ [[https://www.facebook.com/BrazilianWomensGroup/][Brazilian Women’s Group]]
++ [[http://www.braziliancenter.org/][Brazilian Worker Center]]
++ [[https://www.facebook.com/Brockton-Workers-Alliance-358983187841888/][Brockton Workers’ Alliance]]
++ [[http://cct-newbedford.org/][Centro Comunitario de Trabajadores]]
++ [[https://www.chelseacollab.org/][Chelsea Collaborative]]
++ [[https://cpaboston.org/][Chinese Progressive Association]]
++ [[https://www.fuerza-laboral.org/][Fuerza Laboral/Power of Workers]]
++ [[http://masscosh.org/what-we-do/initiatives/immigrant-worker-center][MassCOSH Immigrant Worker Center]]
++ [[http://www.mataharijustice.org/][Matahari Women Workers' Center]]
++ [[https://pvworkerscenter.org/][Pioneer Valley Workers' Center]]
++ [[https://rocunited.org/staff-and-locals/boston/][Restaurant Opportunities Center (ROC) Boston]]
+
+
+
+ References:
++ [[https://jatwork.org/resources/resources-for-workers/][Resources for Workers – Justice at Work]]
 * What's the process of how a worker center help workers claim unpaid wages?
 Each worker center has different strategies and approaches of how to assist a worker. In addition each case is different due to the workers, employer, commmunity organizer, workercenter and context.
 
@@ -70,24 +88,3 @@ Researching on the internet for information about the employer and company.
 + If there is no communication between the employer and workercenter
 + Complete form to send case to attorney general's office
 + Follow up with attorney genera's office and worker
-
-
-
-* List of Worker centers in Massachusetts
-
-+ [[https://www.facebook.com/BrazilianWomensGroup/][Brazilian Women’s Group]]
-+ [[http://www.braziliancenter.org/][Brazilian Worker Center]]
-+ [[https://www.facebook.com/Brockton-Workers-Alliance-358983187841888/][Brockton Workers’ Alliance]]
-+ [[http://cct-newbedford.org/][Centro Comunitario de Trabajadores]]
-+ [[https://www.chelseacollab.org/][Chelsea Collaborative]]
-+ [[https://cpaboston.org/][Chinese Progressive Association]]
-+ [[https://www.fuerza-laboral.org/][Fuerza Laboral/Power of Workers]]
-+ [[http://masscosh.org/what-we-do/initiatives/immigrant-worker-center][MassCOSH Immigrant Worker Center]]
-+ [[http://www.mataharijustice.org/][Matahari Women Workers' Center]]
-+ [[https://pvworkerscenter.org/][Pioneer Valley Workers' Center]]
-+ [[https://rocunited.org/staff-and-locals/boston/][Restaurant Opportunities Center (ROC) Boston]]
-
-
-
- References:
-+ [[https://jatwork.org/resources/resources-for-workers/][Resources for Workers – Justice at Work]]
