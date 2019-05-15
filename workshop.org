@@ -7,6 +7,7 @@
 The focus of this workshop is to show how wage theft occurs in our communities and to provide a social and digital context to understand this process through gamification and using workers' stories.
 
 + In a floor or a table a large piece of paper will be the playcenter or the community of focus.
++ 3D printed objects representing the physical structures of a community or paper cutouts of community locations will be placed in the large piece of paper to create an "imagined community".
 + Index cards will be labeled with different symbols that represent different forms of communication, places, and workers' stories.
 + Each index card will have a piece of a  worker's story, interactions with people, places.
 + Index cards will provide instructions as to placing a token or counter in the playcenter that is a "digital footprint"
