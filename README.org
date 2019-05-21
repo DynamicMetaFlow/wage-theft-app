@@ -6,6 +6,7 @@
   How might we use technology as a tool to increase the capacity of
   community based organizations to address low-wage worker's issues
   surrounding wage theft, health/safety and workplace violations?
+
 * Partner Organization: [[https://jatwork.org/][Justice at Work]]
 
 #+BEGIN_QUOTE
@@ -23,7 +24,7 @@ Justice at Work’s mission is to provide strategic legal support for low-wage w
   - *Meal break violations:* Denying workers their legal meal breaks
   - *Illegal deductions:* Taking illegal deductions from wages.
   - *Tipped minimum wage violations:* Confiscating tips from workers, or failing to pay tipped workers the difference between their tips and the legal minimum wage.
-  - *Employee mis-classification violations:* Misclassifying employees as independent contractors to pay a wage lower than the legal minimum or avoid paying overtime.
+  - *Employee miss-classification violations:* Misclassifying employees as independent contractors to pay a wage lower than the legal minimum or avoid paying overtime.
 
 * Consequences of wage theft
   :PROPERTIES:
