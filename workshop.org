@@ -17,4 +17,4 @@ Antonio received a text message from Maria.
 
 "Amor! Espero que estes bien en los estados unidos! Ya enviaste el dinero para pagar los estudios de los muchachos? Te amo mucho!"
 
-The player would then place a "counter" or "token" as an indicator of where the player currently is on the playing field  when they received the text message. Optionally, if the player taks an action as in goes to a location to transfer the money or goes to work a physical token will be placed there too.
+The player would then place a "counter" or "token" as an indicator of where the player currently is on the playing field  when they received the text message. Optionally, if the player takes an action as in goes to a location to transfer the money or goes to work a physical token will be placed there too.

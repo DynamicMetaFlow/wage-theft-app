@@ -20,7 +20,6 @@ The type of activities that worker centers engage in are:
 + Mounting direct action organizing campaigns against specific employers.
 + Engaging in leadership development and popular education activities.
 
-
  References:
 + [[https://www.epi.org/publication/books_worker_centers/][Worker Centers: Organizing Communities at the Edge of the Dream]]
 
@@ -38,10 +37,9 @@ The type of activities that worker centers engage in are:
  + [[https://pvworkerscenter.org/][Pioneer Valley Workers' Center]]
  + [[https://rocunited.org/staff-and-locals/boston/][Restaurant Opportunities Center (ROC) Boston]]
 
-
-
   References:
  + [[https://jatwork.org/resources/resources-for-workers/][Resources for Workers – Justice at Work]]
+
 * What's the process of how a worker center help workers claim unpaid wages?
 Each worker center has different strategies and approaches of how to assist a worker. In addition each case is different due to the workers, employer, community organizer, workercenter and context.
 
