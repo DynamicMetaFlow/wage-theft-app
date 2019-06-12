@@ -2,59 +2,267 @@
 #+CATEGORY: wagetheft
 #+TAGS: Write(w) Update(u) Fix(f) Check(c)
 
-* Problem Statement:
-  How might we use technology as a tool to increase the capacity of
-  community based organizations to address low-wage worker's issues
-  surrounding wage theft, health/safety and workplace violations?
+* Table of Contents                                      :TOC:
+  - [[#problem-statement][Problem Statement:]]
+  - [[#partner-organization-justice-at-work][Partner Organization: Justice at Work]]
+  - [[#what-is-wage-theft][What is wage theft?]]
+  - [[#consequences-of-wage-theft][Consequences of wage theft]]
+  - [[#what-are-worker-centers][What are worker centers?]]
+  - [[#list-of-worker-centers-in-massachusetts][List of Worker centers in Massachusetts]]
+  - [[#whats-the-process-of-how-a-worker-center-help-workers-claim-unpaid-wages][What's the process of how a worker center help workers claim unpaid wages?]]
+  - [[#worker-testimony][Worker Testimony]]
+  - [[#barriers][Barriers]]
+  - [[#ideas][Ideas]]
+  - [[#wage-theft-workshop][Wage Theft Workshop]]
 
-* Partner Organization: [[https://jatwork.org/][Justice at Work]]
+** Problem Statement:
+   How might we use technology as a tool to increase the capacity of
+   community based organizations to address low-wage worker's issues
+   surrounding wage theft, health/safety and workplace violations?
 
-#+BEGIN_QUOTE
-Justice at Work’s mission is to provide strategic legal support for low-wage worker organizations and their members to strengthen organizing. Our staff provide our worker center partners and the people they serve with legal services, training, and legal counsel for collective action.
-#+END_QUOTE
+** Partner Organization: [[https://jatwork.org/][Justice at Work]]
 
-* What is wage theft?
+ #+BEGIN_QUOTE
+ Justice at Work’s mission is to provide strategic legal support for low-wage worker organizations and their members to strengthen organizing. Our staff provide our worker center partners and the people they serve with legal services, training, and legal counsel for collective action.
+ #+END_QUOTE
 
-  Wage theft is the failure to pay workers the full wages to which they
-  are legally entitled. Examples include:
+** What is wage theft?
 
-  - *Minimum wage violations:* Paying workers less than the legal minimum wage.
-  - *Overtime violations:* Failing to pay nonexempt employees time and a half for hours worked in excess of 40 hours per week.
-  - *Off-the-clock violations:* Asking employees to work off the clock before or after their shifts
-  - *Meal break violations:* Denying workers their legal meal breaks
-  - *Illegal deductions:* Taking illegal deductions from wages.
-  - *Tipped minimum wage violations:* Confiscating tips from workers, or failing to pay tipped workers the difference between their tips and the legal minimum wage.
-  - *Employee miss-classification violations:* Misclassifying employees as independent contractors to pay a wage lower than the legal minimum or avoid paying overtime.
+   Wage theft is the failure to pay workers the full wages to which they
+   are legally entitled. Examples include:
 
-* Consequences of wage theft
-  :PROPERTIES:
-  :ID:       ca202347-8f7b-4251-8df0-2edba10a3a95
-  :Attachments: Wage2_2019-05-14_10-43-58.jpg Wage2_2019-05-14_11-50-56.jpg
-  :END:
+   - *Minimum wage violations:* Paying workers less than the legal minimum wage.
+   - *Overtime violations:* Failing to pay nonexempt employees time and a half for hours worked in excess of 40 hours per week.
+   - *Off-the-clock violations:* Asking employees to work off the clock before or after their shifts
+   - *Meal break violations:* Denying workers their legal meal breaks
+   - *Illegal deductions:* Taking illegal deductions from wages.
+   - *Tipped minimum wage violations:* Confiscating tips from workers, or failing to pay tipped workers the difference between their tips and the legal minimum wage.
+   - *Employee miss-classification violations:* Misclassifying employees as independent contractors to pay a wage lower than the legal minimum or avoid paying overtime.
 
-  According to a report from the Economic Policy Institute, *it's estimated that low-wage workers in the U.S lost more than $50 billion to all forms of wage theft in 2016.*
+** Consequences of wage theft
+   :PROPERTIES:
+   :ID:       ca202347-8f7b-4251-8df0-2edba10a3a95
+   :Attachments: Wage2_2019-05-14_10-43-58.jpg Wage2_2019-05-14_11-50-56.jpg
+   :END:
 
-#+BEGIN_QUOTE
-"The Massachusetts group Community Labor United estimates wage theft costs workers in Massachusetts almost $700 million annually. The Attorney General’s Office, tasked with protecting workers in this state, successfully recovers $5.2 million annually.In terms of daily averages, employers steal nearly $2 million of labor each day, and the Attorney General wins back just $14,330 in compensation."
+   According to a report from the Economic Policy Institute, *it's estimated that low-wage workers in the U.S lost more than $50 billion to all forms of wage theft in 2016.*
 
-Cooper and Kroeger (2017) find that workers suffering minimum wage violations are cheated out of $64 a week—$3,300 annually for year-round workers. These workers lose almost one-quarter of their earnings, receiving on average only $10,500 in annual wages instead of the $13,800 they should have received.
-#+END_QUOTE
+ #+BEGIN_QUOTE
+ "The Massachusetts group Community Labor United estimates wage theft costs workers in Massachusetts almost $700 million annually. The Attorney General’s Office, tasked with protecting workers in this state, successfully recovers $5.2 million annually.In terms of daily averages, employers steal nearly $2 million of labor each day, and the Attorney General wins back just $14,330 in compensation."
 
-
-[[media/Wage2_2019-05-14_10-43-58.jpg]]
-
-
-
-
+ Cooper and Kroeger (2017) find that workers suffering minimum wage violations are cheated out of $64 a week—$3,300 annually for year-round workers. These workers lose almost one-quarter of their earnings, receiving on average only $10,500 in annual wages instead of the $13,800 they should have received.
+ #+END_QUOTE
 
 
-The disproportionate share of wage theft victims are people of color, women, immigrants, young-people, workers from modest-income households non-unionized workers, and workers who do not have a bachelor's degree.
+ [[media/Wage2_2019-05-14_10-43-58.jpg]]
 
-References:
-+ [[https://www.epi.org/publication/two-billion-dollars-in-stolen-wages-were-recovered-for-workers-in-2015-and-2016-and-thats-just-a-drop-in-the-bucket/][Two billion dollars in stolen wages were recovered...]]
-+ [[https://www.muckrock.com/news/archives/2016/may/23/boston-wage-theft-data/][The human cost of wage theft in Massachusetts]]
 
-* [[file:workercenters.org][What are worker centers?]]
-* [[file:worker.org][Who are the workers?]]
-* [[file:brainstorming.org][Brainstorming]]
-* [[file:workshop.org][Wage Theft Workshop]]
+
+
+
+
+ The disproportionate share of wage theft victims are people of color, women, immigrants, young-people, workers from modest-income households non-unionized workers, and workers who do not have a bachelor's degree.
+
+ References:
+ + [[https://www.epi.org/publication/two-billion-dollars-in-stolen-wages-were-recovered-for-workers-in-2015-and-2016-and-thats-just-a-drop-in-the-bucket/][Two billion dollars in stolen wages were recovered...]]
+ + [[https://www.muckrock.com/news/archives/2016/may/23/boston-wage-theft-data/][The human cost of wage theft in Massachusetts]]
+
+** What are worker centers?
+
+ Worker  centers are community-based mediating institutions that provide support
+ to and organize among communities of low-wage workers. Most centers focus their
+ work geographically, operating in a particular city or neighborhood.
+
+ Worker centers in general have emerged in response to the decline of
+ institutions that historically provided workers with a vehicle for collective
+ action. Immigrant worker centers have emerged as a consequence of the explosive
+ growth of immigrant communities and the absence of infrastructure to support
+ their needs.
+
+ The type of activities that worker centers engage in are:
+ + Helping workers to claim unpaid wages.
+ + Working with government agencies to improve enforcement.
+ + Mounting direct action organizing campaigns against specific employers.
+ + Engaging in leadership development and popular education activities.
+
+  References:
+ + [[https://www.epi.org/publication/books_worker_centers/][Worker Centers: Organizing Communities at the Edge of the Dream]]
+
+** List of Worker centers in Massachusetts
+
+ + [[https://www.facebook.com/BrazilianWomensGroup/][Brazilian Women’s Group]]
+ + [[http://www.braziliancenter.org/][Brazilian Worker Center]]
+ + [[https://www.facebook.com/Brockton-Workers-Alliance-358983187841888/][Brockton Workers’ Alliance]]
+ + [[http://cct-newbedford.org/][Centro Comunitario de Trabajadores]]
+ + [[https://www.chelseacollab.org/][Chelsea Collaborative]]
+ + [[https://cpaboston.org/][Chinese Progressive Association]]
+ + [[https://www.fuerza-laboral.org/][Fuerza Laboral/Power of Workers]]
+ + [[http://masscosh.org/what-we-do/initiatives/immigrant-worker-center][MassCOSH Immigrant Worker Center]]
+ + [[http://www.mataharijustice.org/][Matahari Women Workers' Center]]
+ + [[https://pvworkerscenter.org/][Pioneer Valley Workers' Center]]
+ + [[https://rocunited.org/staff-and-locals/boston/][Restaurant Opportunities Center (ROC) Boston]]
+
+  References:
+ + [[https://jatwork.org/resources/resources-for-workers/][Resources for Workers – Justice at Work]]
+
+** What's the process of how a worker center help workers claim unpaid wages?
+ Each worker center has different strategies and approaches of how to assist a worker. In addition each case is different due to the workers, employer, community organizer, workercenter and context.
+
+ Below is an example of one process.
+
+  *0. Initial screen questions:*
+  Gathering information about worker and employer
+  + What is the problem you are experiencing?
+  + How much do your earn an hour?
+  + How many hours do you work?
+  + What was the name of company? Do you have the companies address, license plate, the employer's home address, office telephone numbers or cell phone numbers?
+  + Are you unionized or not
+  + Do you still work there?
+
+  *1. Analyzing the case:*
+  What type of case is this?
+  + Wage and hour case
+  + Problem with a union
+  + unjustly fired
+  + general abuse
+
+  *2. Analyze hours:*
+  Generate a timesheet from information provided by worker
+  + What are the dates where the worker was not paid?
+  + What were the workers' hours during these dates?
+  + Did the worker work overtime?
+  + Worker participates in first phone call with employer.
+
+  *3. Research*
+  Researching on the internet for information about the employer and company.
+  + Google
+  + Radaris, Intelus, People Search etc
+  + Workman's ComDatabase at Division of Industrial Accidents
+  + Facebook
+
+  *4. Letter to employer*
+  + Letter is sent by certified mail
+  + Using template of organiation
+  + Waiting for employer to respond.
+
+  *5. Refer case to Attorney General's Office*
+  + If the employer does not respond to letter
+  + If there is no communication between the employer and workercenter
+  + Complete form to send case to attorney general's office
+  + Follow up with attorney genera's office and worker
+
+** Worker Testimony
+ I'm originally from Honduras and I came to this country to fight and help my family. I worked at a restaurant in Somerville. I worked for 10 months, 6 days a week, from 11am to 11pm, approximately 72 hours a week. I worked as a dishwasher and preparation and they paid me $ 425 a week.
+
+ After working at this restaurant for some time, I was left with 4 weeks of work that I wasn't paid. When I asked for the money they owed me, they told me they did not have the money to pay me and for me to wait. They told me that they would have it for me next week and that I would continue working. I kept working but they kept saying the same thing "for next week" every time I asked for my money.
+
+ At the end I got tired of working without being paid payment. I had obligations, I had to pay rent, and other family needs. And this is why I decided to leave this restaurant.
+
+ I decided to go to a worker-center to seek help. I started learning about my rights as a worker. I learned about the minimum wage, I learned that you have to pay me at the designated time, I learned about overtime. And I realized that what the employer paid me was below the minimum wage of Massachusetts law.
+
+
+  | *$8.00 per hour*      |        |                  |       |            |              |                    |
+  | *Date*                |        | *wkly. worked hrs* |    *OT* | *Total $*    | *Total $ Paid* | *Total Unpaid Wages* |
+  | 7/12/2010-7/17/2010 |        |               72 |    32 | $704.00    |          400 | $304.00            |
+  | 7/19/2010-7/24/2010 |        |               72 |    32 | $704.00    |          400 | $304.00            |
+  |                     |        |               72 |    32 | $704.00    |          400 | $304.00            |
+  |                     |        |               72 |    32 | $704.00    |          400 | $304.00            |
+  |                     |        |               72 |    32 | $704.00    |          400 | $304.00            |
+  |                     |        |               72 |    32 | $704.00    |          400 | $304.00            |
+  |                     |        |               72 |    32 | $704.00    |          400 | $304.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |          425 | $279.00            |
+  |                     |        |               72 |    32 | $704.00    |            0 | $704.00            |
+  |                     |        |               72 |    32 | $704.00    |            0 | $704.00            |
+  |                     |        |               72 |    32 | $704.00    |            0 | $704.00            |
+  | 7/26/2010-7/31/2010 |        |               72 |    32 | $704.00    |            0 | $704.00            |
+  |                     | *TOTAL:* |            *2,880* | *1,280* | *$28,160.00* |   *$15,125.00* | *$13,035.00*         |
+
+** Barriers
+*** Lack of information
+ + If workers don't know how many hours they worked in a given week, the worker cannot figure out whether they are being paid properly.
+ + If a worker cannot testify in court to approximate hours in a given week,they cannot prove liability or damages.
+ + Inconsistent or incomplete information about the employer or company plays a large role of whether or not a workers' wages can be recuperated.
+ + A worker's schedule can vary and contributes to lack of information to hours worked.
+** Ideas
+*** Location History
+ Create a web based tool that worker centers can use to turn cell phone location history into court admissible evidence that summarizes a person's time on the job.
+
+  The location history application can be used in the initial intake process of when a worker visits a worker center.The community organizer at the worker center would ask the initial questions about hours worked, employer information etc.
+
+ In the "research" phase, the organizer asks the worker permission to load their location data to a website that will then compute the days and times a worker was at a specific given area. This information will then be exported as a spreadsheet that can then later be used by the worker center, lawyer and attorney generals office, or department of labor to be admissible in court
+
+  In addition to location history, it would be beneficial to aggregate text messages, phone logs, or pictures (EXIF data) that can be useful for workers who are not in specific area i.e construction workers and to further strengthen and solidify workers' cases.
+
+ *Process*
+ 1. Downloads location data from Google.
+ 2. Load location data to website
+ 3. Website plots locations on map
+ 4. Draw box around worksite
+ 5. Compute
+
+ + Location history is turned on by default and linked to a Google account  rather than a specific phone.
+ + Reasonably accurate
+ + The tool can be used to corroborate a worker's story
+
+*** Worker Center Application
+
+ Create an application to increase the capacity of community based organizations to address workers' issues.
+
+ The worker center application is modeled after a "worker center code" model, that allows worker centers to join and register with the network. The worker centers are then given a unique code where workers can elect to work with that specific worker center. Rather than creating an application that displaces worker centers and community organizers, this application would strengthen the relationship between worker and worker centers. Worker centers would be able to receive current information from the workers that are registered with them, identify patterns of abusive employers and better be equipped to manage and follow-up with workers' cases.
+
+
+ *Features:*
+ + Tracks worker hours
+ + Track wages
+ + Locations
+ + Breaks
+ + Employer information
+ + Company information
+ + Generate reports and job logs used for the Department of Labor and Attorney General's Office
+ + Share information with other workers and worker centers about non-paying jobs or employers who don't pay their workers
+ .
+
+** Wage Theft Workshop
+
+ The focus of this workshop is to show how wage theft occurs in our communities and to provide a social and digital context to understand this process through gamification and using workers' stories.
+
+ + In a floor or a table a large piece of paper will be the playcenter or the community of focus.
+ + 3D printed objects representing the physical structures of a community or paper cutouts of community locations will be placed in the large piece of paper to create an "imagined community".
+ + Index cards will be labeled with different symbols that represent different forms of communication, places, and workers' stories.
+ + Each index card will have a piece of a  worker's story, interactions with people, places.
+ + Index cards will provide instructions as to placing a token or counter in the playcenter that is a "digital footprint"
+
+ Example: Worker card
+ Antonio received a text message from Maria.
+
+ "Amor! Espero que estes bien en los estados unidos! Ya enviaste el dinero para pagar los estudios de los muchachos? Te amo mucho!"
+
+ The player would then place a "counter" or "token" as an indicator of where the player currently is on the playing field  when they received the text message. Optionally, if the player takes an action as in goes to a location to transfer the money or goes to work a physical token will be placed there too.

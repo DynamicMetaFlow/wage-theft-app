@@ -45,4 +45,5 @@ The worker center application is modeled after a "worker center code" model, tha
 + Employer information
 + Company information
 + Generate reports and job logs used for the Department of Labor and Attorney General's Office
-+ Share information with other workers and worker centers about non-paying jobs or employers who don't pay their workers.
++ Share information with other workers and worker centers about non-paying jobs or employers who don't pay their workers
+.

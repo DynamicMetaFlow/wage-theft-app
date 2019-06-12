@@ -1,4 +1,4 @@
-#+TITLE: Wage Theft Workshop
++TITLE: Wage Theft Workshop
 #+AUTHOR: Alexander Soto
 #+CATEGORY: wagetheft
 #+TAGS: Write(w) Update(u) Fix(f) Check(c)
